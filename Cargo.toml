@@ -1,0 +1,17 @@
+[package]
+name = "rdoc"
+version = "0.1.0"
+authors = ["Michael Gattozzi <mgattozzi@gmail.com>"]
+description = "A simple rustc plugin to host documentation for your items in a separate file."
+documentation = "https://docs.rs/rdoc/0.1.0/rdoc/"
+homepage = "https://github.com/mgattozzi/rdoc"
+repository = "https://github.com/mgattozzi/rdoc"
+readme = "README.md"
+keywords = ["plugin", "documentation"]
+license = "MIT/Apache-2.0"
+
+[lib]
+plugin = true
+
+[workspace]
+members = ["rdoc-test"]
