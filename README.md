@@ -3,8 +3,7 @@
 A simple rustc plugin to host documentation for your items in a separate file.
 
 [![Build Status](https://travis-ci.org/mgattozzi/rdoc.svg?branch=master)](https://travis-ci.org/mgattozzi/rdoc)
-[![Build
-Status](https://ci.appveyor.com/api/projects/status/06bp8wk087geswk/branch/master?svg=true)](https://ci.appveyor.com/project/mgattozzi/rdoc/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/068bp8wk087geswk?svg=true)](https://ci.appveyor.com/project/mgattozzi/rdoc)
 [![crates.io](https://img.shields.io/crates/v/rdoc.svg)](https://crates.io/crates/rdoc)
 
 ## Nightly
